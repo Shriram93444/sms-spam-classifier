@@ -41,7 +41,7 @@ Confusion Matrix (Logistic Regression)
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/YOUR-USERNAME/sms-spam-classifier.git
+git clone https://github.com/Shriram93444/sms-spam-classifier
 cd sms-spam-classifier
 
 # 2. Install dependencies
