@@ -26,9 +26,6 @@ Trained and compared two models:
 | Multinomial Naive Bayes   |   97.1%  | Strong baseline — fast & effective on text |
 | Logistic Regression       |   96.9%  | Slightly lower here; good interpretability |
 
-Confusion Matrix (Logistic Regression)
-![Confusion Matrix - Logistic Regression](https://raw.githubusercontent.com/Shriram93444/sms-spam-classifier/main/assets/confusion_matrix.png)
-
 ## Key Learnings
 
 - Text cleaning (lowercase, remove punctuation/numbers, stop words) makes a big difference  
