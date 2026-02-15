@@ -27,7 +27,7 @@ Trained and compared two models:
 | Logistic Regression       |   96.9%  | Slightly lower here; good interpretability |
 
 Confusion Matrix (Logistic Regression)
-![Confusion Matrix - Logistic Regression](assets/confusion_matrix.png)
+![Confusion Matrix - Logistic Regression](https://raw.githubusercontent.com/Shriram93444/sms-spam-classifier/main/assets/confusion_matrix.png)
 
 ## Key Learnings
 
