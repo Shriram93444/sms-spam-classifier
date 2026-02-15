@@ -27,7 +27,7 @@ Trained and compared two models:
 | Logistic Regression       |   96.9%  | Slightly lower here; good interpretability |
 
 Confusion Matrix (Logistic Regression)
-![Confusion Matrix](assets/confusion_matrix.png)
+![Confusion Matrix](assets/confusion_matrix.png.png)
 
 ## Key Learnings
 
